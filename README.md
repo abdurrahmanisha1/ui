@@ -6,7 +6,7 @@
 
 ## Introduction
 
-### Develop by : Abdur Rahman Isha
+### Develop by :- Abdur Rahman Isha
 
 While Laravel does not dictate which JavaScript or CSS pre-processors you use, it does provide a basic starting point using [Bootstrap](https://getbootstrap.com/), [React](https://reactjs.org/), and / or [Vue](https://vuejs.org/) that will be helpful for many applications. By default, Laravel uses [NPM](https://www.npmjs.org/) to install both of these frontend packages.
 
